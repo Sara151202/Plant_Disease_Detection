@@ -4,3 +4,8 @@ The model is pre-trained witha dataset of 20360 images of 26 classes. it is trai
 2.Loss Graph
 3.Confusion Matrix
 4.Classification Report for parameters like (precision, recall, f1-score)
+
+Dataset@ https://www.kaggle.com/datasets/mohitsingh1804/plantvillage
+       @ https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+
+
